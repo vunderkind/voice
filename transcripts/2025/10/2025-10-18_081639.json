@@ -1,0 +1,10 @@
+{
+  "date" : "2025-10-18T07:16:39Z",
+  "duration_seconds" : 30,
+  "language" : "en",
+  "model" : "whisper-tiny",
+  "segments" : [
+
+  ],
+  "transcript" : " This is a test transcription showing whisper.cpp is working"
+}
